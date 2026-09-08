@@ -175,3 +175,4 @@ Setelah domain aktif, ganti `url` di `src/lib/site.ts` agar `sitemap.xml` benar.
 - [ ] Isi `url` domain, cek `sitemap.xml` & `robots.txt`
 - [ ] Lengkapi Kebijakan Privasi & Syarat–Ketentuan (tinjau hukum)
 - [ ] Jalankan Lighthouse (target Performance & SEO ≥ 90)
+# PT-Ateka-Jaya-Primantara
