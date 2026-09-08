@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AJP">
+  <!-- PLACEHOLDER MARK — replace with the official AJP emblem -->
+  <defs>
+    <clipPath id="d">
+      <path d="M32 3 61 32 32 61 3 32Z" />
+    </clipPath>
+  </defs>
+  <path d="M32 3 61 32 32 61 3 32Z" fill="none" stroke="#0e8f43" stroke-width="4" stroke-linejoin="round" />
+  <g clip-path="url(#d)" fill="#0e8f43">
+    <path d="M32 14 46 40 38 40 32 28 26 40 18 40Z" />
+    <path d="M28 44h8v6h-8z" />
+  </g>
+</svg>
